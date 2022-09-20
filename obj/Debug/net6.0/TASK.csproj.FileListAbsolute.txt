@@ -1,0 +1,15 @@
+C:\Users\LENOVO-PC\Desktop\Control_work\TASK\bin\Debug\net6.0\TASK.exe
+C:\Users\LENOVO-PC\Desktop\Control_work\TASK\bin\Debug\net6.0\TASK.deps.json
+C:\Users\LENOVO-PC\Desktop\Control_work\TASK\bin\Debug\net6.0\TASK.runtimeconfig.json
+C:\Users\LENOVO-PC\Desktop\Control_work\TASK\bin\Debug\net6.0\TASK.dll
+C:\Users\LENOVO-PC\Desktop\Control_work\TASK\bin\Debug\net6.0\TASK.pdb
+C:\Users\LENOVO-PC\Desktop\Control_work\TASK\obj\Debug\net6.0\TASK.csproj.AssemblyReference.cache
+C:\Users\LENOVO-PC\Desktop\Control_work\TASK\obj\Debug\net6.0\TASK.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO-PC\Desktop\Control_work\TASK\obj\Debug\net6.0\TASK.AssemblyInfoInputs.cache
+C:\Users\LENOVO-PC\Desktop\Control_work\TASK\obj\Debug\net6.0\TASK.AssemblyInfo.cs
+C:\Users\LENOVO-PC\Desktop\Control_work\TASK\obj\Debug\net6.0\TASK.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO-PC\Desktop\Control_work\TASK\obj\Debug\net6.0\TASK.dll
+C:\Users\LENOVO-PC\Desktop\Control_work\TASK\obj\Debug\net6.0\refint\TASK.dll
+C:\Users\LENOVO-PC\Desktop\Control_work\TASK\obj\Debug\net6.0\TASK.pdb
+C:\Users\LENOVO-PC\Desktop\Control_work\TASK\obj\Debug\net6.0\TASK.genruntimeconfig.cache
+C:\Users\LENOVO-PC\Desktop\Control_work\TASK\obj\Debug\net6.0\ref\TASK.dll
