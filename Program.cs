@@ -1,7 +1,7 @@
 ﻿/*Задача : Написать программу, которая из имеющегося массива строк формирует массив из строк, 
 длина которых меньше либо равна 3 символа. Первоначальный массив можно ввести с клавиатуры, 
 либо задать на старте выполнения алгоритма. */
-string[] array1 = new string[4] {"Russia", "2", "Kazan", "OAE"};
+string[] array1 = new string[4] {"Yellow", "2", "Dark", "3"};
 string[] array2 = new string[array1.Length];
 void SecondArray(string[] array1, string[] array2)
 {
@@ -23,3 +23,5 @@ void PrintArray(string[] array)
     }
     Console.WriteLine();
 }
+SecondArray(array1, array2);
+PrintArray(array2);
